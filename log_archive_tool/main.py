@@ -6,6 +6,8 @@ import tarfile
 from datetime import datetime
 
 def main():
+
+    print("Debug : main() started")
     if len(sys.argv) != 2:
         print("Usage: python log-archive <log-directory>")
         sys.exit(1)
@@ -33,5 +35,6 @@ def main():
 
     print(f"Archive created: {archive_path}")
 
-    if __name__ == "__main__":
-        main()
+
+if __name__ == "__main__":
+    main()
