@@ -1,3 +1,5 @@
+ https://github.com/franklynmbongeni/log_archive_tool.git
+
 # Log Archiving Tool
 
 A simple Python CLI tool to archive and compress log files on Windows or Unix-based systems.  
@@ -33,5 +35,4 @@ This helps free up disk space, keep logs organized, and maintain historical reco
 
 git clone https://github.com/franklynmbongeni/log_archive_tool.git
 cd log_archive_tool
-git clone https://github.com/franklynmbongeni/log_archive_tool.git
-cd log_archive_tool
+
